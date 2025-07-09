@@ -2,6 +2,7 @@
   "expo": {
     "name": "DishiPix",
     "slug": "DishiPix",
+    "scheme": "dishipix",
     "version": "1.0.0",
 
     "web": {
@@ -15,12 +16,12 @@
     "plugins": [],
 
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/DishiPix3.png",
 
     "userInterfaceStyle": "light",
 
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/DishiPix3.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
